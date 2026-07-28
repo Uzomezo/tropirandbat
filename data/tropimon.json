@@ -1204,9 +1204,9 @@
 },
 "ludicolo":
 {
- "81,leftovers,swiftswim,weatherball,icebeam,gigadrain,normal": 250,
- "81,lifeorb,swiftswim,weatherball,icebeam,gigadrain,normal": 250,
- "81,heavydutyboots,swiftswim,weatherball,icebeam,gigadrain,normal": 250
+ "81,leftovers,swiftswim,weatherball,icebeam,gigadrain,raindance,normal": 250,
+ "81,lifeorb,swiftswim,weatherball,icebeam,gigadrain,raindance,normal": 250,
+ "81,heavydutyboots,swiftswim,weatherball,icebeam,gigadrain,raindance,normal": 250
 },
 "lugia":
 {
