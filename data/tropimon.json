@@ -2373,9 +2373,9 @@
 },
 "mew":
 {
- "78,leftovers,synchro,swordsdance,psychicfang,closecombat,earthquake,normal": 250,
- "78,lifeorb,synchro,swordsdance,psychicfang,closecombat,earthquake,normal": 250,
- "78,heavydutyboots,synchro,swordsdance,psychicfang,closecombat,earthquake,normal": 250,
+ "78,leftovers,synchro,swordsdance,psychicfangs,closecombat,earthquake,normal": 250,
+ "78,lifeorb,synchro,swordsdance,psychicfangs,closecombat,earthquake,normal": 250,
+ "78,heavydutyboots,synchro,swordsdance,psychicfangs,closecombat,earthquake,normal": 250,
  "78,leftovers,synchro,stealthrock,knockoff,psychic,defog,normal": 250,
  "78,heavydutyboots,synchro,stealthrock,knockoff,psychic,defog,normal": 250,
  "78,rockyhelmet,synchro,stealthrock,knockoff,psychic,defog,normal": 250,
