@@ -325,8 +325,8 @@
 {
  "80,choiceband,sharpness,ceaselessedge,razorshell,aquajet,megahorn,normal": 250, 
  "80,choicescarf,sharpness,ceaselessedge,razorshell,aquajet,megahorn,normal": 250,
- "80,lifeorb,sharpness,ceaselessedge,razorshell,suckerpunch,sswordsdance,normal": 250,
- "80,leftovers,sharpness,ceaselessedge,razorshell,suckerpunch,sswordsdance,normal": 250
+ "80,lifeorb,sharpness,ceaselessedge,razorshell,suckerpunch,swordsdance,normal": 250,
+ "80,leftovers,sharpness,ceaselessedge,razorshell,suckerpunch,swordsdance,normal": 250
 },
 "klinklang": 
 {
