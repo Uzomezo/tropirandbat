@@ -1156,13 +1156,13 @@
 },
 "stunfisk":
 {
- "90,leftovers,stealthrock,discharge,earthpower,sludgebomb,normal": 250,
- "90,rockyhelmet,stealthrock,discharge,earthpower,sludgebomb,normal": 250
+ "90,leftovers,static,stealthrock,discharge,earthpower,sludgebomb,normal": 250,
+ "90,rockyhelmet,static,stealthrock,discharge,earthpower,sludgebomb,normal": 250
 },
 "stunfiskgalar":
 {
- "90,leftovers,stealthrock,snaptrap,earthquake,toxic,normal": 250,
- "90,rockyhelmet,stealthrock,snaptrap,earthquake,toxic,normal": 250
+ "90,leftovers,mimicry,stealthrock,snaptrap,earthquake,toxic,normal": 250,
+ "90,rockyhelmet,mimicry,stealthrock,snaptrap,earthquake,toxic,normal": 250
 },
 "linoone":
 {
