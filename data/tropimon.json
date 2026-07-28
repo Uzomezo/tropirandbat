@@ -2137,10 +2137,10 @@
 },
 "hydreigon":
 {
- "81,choicespecs,levitate,dracometeor,drakpulse,uturn,flamethrower,normal": 250,
- "81,choicescarf,levitate,dracometeor,drakpulse,uturn,flamethrower,normal": 250,
- "81,lifeorb,levitate,dracometeor,drakpulse,nastyplot,flamethrower,normal": 250,
- "81,leftovers,levitate,dracometeor,drakpulse,nastyplot,flamethrower,normal": 250
+ "81,choicespecs,levitate,dracometeor,darkpulse,uturn,flamethrower,normal": 250,
+ "81,choicescarf,levitate,dracometeor,darkpulse,uturn,flamethrower,normal": 250,
+ "81,lifeorb,levitate,dracometeor,darkpulse,nastyplot,flamethrower,normal": 250,
+ "81,leftovers,levitate,dracometeor,darkpulse,nastyplot,flamethrower,normal": 250
 },
 "gastrodon":
 {
