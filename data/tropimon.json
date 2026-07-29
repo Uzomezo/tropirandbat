@@ -318,7 +318,7 @@
 },
 "samurott": 
 {
- "87,choiceband,torrent,hydropump,vacuumwave,icebeam,grassknot,normal": 250, 
+ "87,choicespecs,torrent,hydropump,vacuumwave,icebeam,grassknot,normal": 250, 
  "87,choicescarf,torrent,hydropump,vacuumwave,icebeam,grassknot,normal": 250
 },
 "samurotthisui": 
@@ -2242,10 +2242,10 @@
 },
 "revavroom":
 {
- "83,leftovers,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
- "83,airballoon,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
- "83,lifeorb,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
- "83,heavydutyboots,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250
+ "82,leftovers,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
+ "82,airballoon,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
+ "82,lifeorb,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250,
+ "82,heavydutyboots,filter,shiftgear,ironhead,gunkshot,highhorsepower,normal": 250
 },
 "wailord":
 {
