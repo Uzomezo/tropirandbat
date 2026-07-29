@@ -1410,7 +1410,7 @@
 },
 "meowstic":
 {
- "85,lightclay,prankster,lightclay,reflect,thunderwave,psychicnoise,normal": 250
+ "85,lightclay,prankster,lightscreen,reflect,thunderwave,psychicnoise,normal": 250
 },
 "froslass":
 {
@@ -1565,11 +1565,11 @@
 },
 "marowak":
 {
- "89,bone,rockhead,doubleedge,stoneedge,throatchop,earthquake,normal": 250
+ "89,rarebone,rockhead,doubleedge,stoneedge,throatchop,earthquake,normal": 250
 },
 "marowakalola":
 {
- "85,bone,rockhead,doubleedge,flareblitz,poltergeist,earthquake,normal": 250
+ "85,rarebone,rockhead,doubleedge,flareblitz,poltergeist,earthquake,normal": 250
 },
 "dondozo":
 {
@@ -1994,7 +1994,7 @@
 {
  "85,assaultvest,queenlymajesty,rapidspin,highjumpkick,powerwhip,knockoff,normal": 250,
  "85,choiceband,queenlymajesty,tripleaxel,highjumpkick,powerwhip,knockoff,normal": 250,
- "85,assaulscarf,queenlymajesty,tripleaxel,highjumpkick,powerwhip,knockoff,normal": 250
+ "85,choicescarf,queenlymajesty,tripleaxel,highjumpkick,powerwhip,knockoff,normal": 250
 },
 "suicune":
 {
