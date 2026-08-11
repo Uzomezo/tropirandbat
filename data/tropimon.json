@@ -619,10 +619,6 @@
  "87,lifeorb,hugepower,quickattack,earthquake,swordsdance,bodyslam,normal": 250,
  "87,leftovers,hugepower,quickattack,earthquake,swordsdance,bodyslam,normal": 250
 },
-"maushold": 
-{
- "84,widelens,technician,tidyup,encore,populationbomb,thief,normal": 250
-},
 "whimsicott": 
 {
  "89,leftovers,prankster,encore,moonblast,energyball,stunspore,normal": 250
@@ -773,8 +769,7 @@
 },
 "aggron": 
 {
- "87,choiceband,heavymetal,stoneedge,heavyslam,earthquake,brickbreak,normal": 250,
- "87,choicescarf,heavymetal,stoneedge,heavyslam,earthquake,brickbreak,normal": 250
+ "87,choiceband,heavymetal,stoneedge,heavyslam,earthquake,brickbreak,normal": 250
 },
 "gallade": 
 {
@@ -1446,7 +1441,7 @@
 },
 "shedinja":
 {
- "90,heavydutyboots,wonderguard,shadowclaw,swordsdance,xscissor,dig,normal": 250
+ "90,heavydutyboots,wonderguard,poltergeist,willowisp,xscissor,dig,normal": 250
 },
 "goodra":
 {
