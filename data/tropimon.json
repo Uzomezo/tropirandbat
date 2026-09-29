@@ -2491,15 +2491,15 @@
 },
 "indeedee":
 {
- "85,leftovers,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250,
- "85,lifeorb,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250,
- "85,heavydutyboots,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250
+ "85,leftovers,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250,
+ "85,lifeorb,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250,
+ "85,heavydutyboots,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250
 },
 "indeedeef":
 {
- "85,leftovers,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250,
- "85,lifeorb,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250,
- "85,heavydutyboots,psychicsurge,expandingforce,calmind,shadowball,dazzlinggleam,normal": 250
+ "85,leftovers,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250,
+ "85,lifeorb,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250,
+ "85,heavydutyboots,psychicsurge,expandingforce,calmmind,shadowball,dazzlinggleam,normal": 250
 },
 "duraludon":
 {
