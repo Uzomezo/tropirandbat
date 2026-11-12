@@ -1,6 +1,8 @@
  {
 "absol": 
 {
+ "82,choiceband,justified,knockoff,playrough,closecombat,stoneedge,normal": 250, 
+ "82,choicescarf,justified,knockoff,playrough,closecombat,stoneedge,normal": 250, 
  "82,leftovers,justified,swordsdance,playrough,suckerpunch,stoneedge,normal": 250, 
  "82,lifeorb,justified,knockoff,playrough,suckerpunch,stoneedge,normal": 250
 },
@@ -239,7 +241,8 @@
 "camerupt": 
 {
  "89,lifeorb,solidrock,trailblaze,stoneedge,earthquake,heatcrash,normal": 250, 
- "89,leftovers,solidrock,stealthrock,yawn,earthpower,lavaplume,normal": 250
+ "89,leftovers,solidrock,stealthrock,yawn,earthpower,lavaplume,normal": 250,
+ "89,weaknesspolicy,solidrock,rockpolish,stoneedge,earthpower,lavaplume,normal": 250
 },
 "ambipom": 
 {
@@ -563,7 +566,8 @@
 {
  "78,throatspray,bulletproof,clangoroussoul,focusblast,clangingscales,boomburst,normal": 250,
  "78,leftovers,bulletproof,dragondance,outrage,closecombat,earthquake,normal": 250,
- "78,lumberry,bulletproof,dragondance,outrage,closecombat,earthquake,normal": 250
+ "78,lumberry,bulletproof,dragondance,outrage,closecombat,earthquake,normal": 250,
+ "78,weaknesspolicy,bulletproof,dragondance,outrage,closecombat,earthquake,normal": 250
 },
 "manectric": 
 {
@@ -610,7 +614,9 @@
 {
  "80,lifeorb,stancechange,kingsshield,autotomize,shadowball,flashcannon,normal": 250,
  "80,lifeorb,stancechange,kingsshield,swordsdance,shadowsneak,ironhead,normal": 250,
- "80,leftovers,stancechange,kingsshield,swordsdance,shadowsneak,ironhead,normal": 250
+ "80,leftovers,stancechange,kingsshield,swordsdance,shadowsneak,ironhead,normal": 250,
+ "80,weaknesspolicy,stancechange,kingsshield,swordsdance,shadowsneak,ironhead,normal": 250,
+ "80,weaknesspolicy,stancechange,kingsshield,autotomize,shadowball,flashcannon,normal": 250
 },
 "diggersby": 
 {
@@ -1769,7 +1775,8 @@
 "rhyperior":
 {
  "85,leftovers,solidrock,swordsdance,stoneedge,earthquake,bodypress,normal": 250,
- "85,lifeorb,solidrock,swordsdance,stoneedge,earthquake,bodypress,normal": 250
+ "85,lifeorb,solidrock,swordsdance,stoneedge,earthquake,bodypress,normal": 250,
+ "85,weaknesspolicy,solidrock,rockpolish,stoneedge,earthquake,bodypress,normal": 250
 },
 "rhydon":
 {
@@ -2306,7 +2313,8 @@
  "73,choicescarf,drought,precipiceblades,heatcrash,stoneedge,thunderpunch,normal": 250,
  "73,leftovers,drought,precipiceblades,heatcrash,stoneedge,swordsdance,normal": 250,
  "73,lifeorb,drought,precipiceblades,heatcrash,stoneedge,swordsdance,normal": 250,
- "73,heavydutyboots,drought,precipiceblades,heatcrash,stoneedge,swordsdance,normal": 250
+ "73,heavydutyboots,drought,precipiceblades,heatcrash,stoneedge,swordsdance,normal": 250,
+ "73,weaknesspolicy,drought,precipiceblades,heatcrash,stoneedge,rockpolish,normal": 250
 },
 "throh":
 {
@@ -2559,5 +2567,48 @@
  "86,heavydutyboots,sturdy,avalanche,stoneedge,rapidspin,stealthrock,normal": 250,
  "86,assaultvest,strongjaw,icefang,stoneedge,rapidspin,crunch,normal": 250,
  "86,assaultvest,strongjaw,icefang,stoneedge,earthquake,crunch,normal": 250
+},
+"abomasnow":
+{
+ "86,lightclay,snowwarning,auroraveil,woodhammer,iceshard,icespinner,normal": 250,
+ "86,loadeddice,snowwarning,iciclespear,bulletseed,trailblaze,swordsdance,normal": 250
+},
+"mothim":
+{
+ "87,heavydutyboots,tintedlens,quiverdance,bugbuzz,airslash,roost,normal": 250
+},
+"seismitoad":
+{
+ "85,leftovers,waterabsorb,earthquake,liquidation,toxic,knockoff,normal": 250,
+ "85,rockyhelmet,waterabsorb,earthquake,liquidation,toxic,knockoff,normal": 250,
+ "85,heavydutyboots,waterabsorb,earthquake,liquidation,toxic,knockoff,normal": 250,
+ "85,leftovers,waterabsorb,earthquake,liquidation,stealthrock,knockoff,normal": 250,
+ "85,rockyhelmet,waterabsorb,earthquake,liquidation,stealthrock,knockoff,normal": 250,
+ "85,heavydutyboots,waterabsorb,earthquake,liquidation,stealthrock,knockoff,normal": 250
+},
+"heliolisk":
+{
+ "86,choicescarf,dryskin,voltswitch,thunderbolt,hypervoice,surf,normal": 250,
+ "86,choicescarf,dryskin,voltswitch,thunderbolt,hypervoice,focusblast,normal": 250,
+ "86,choicespecs,dryskin,voltswitch,thunderbolt,hypervoice,surf,normal": 250,
+ "86,choicespecs,dryskin,voltswitch,thunderbolt,hypervoice,focusblast,normal": 250,
+ "86,lifeorb,dryskin,focusblast,thunderbolt,hypervoice,surf,normal": 250
+
+},
+"vikavolt":
+{
+ "84,heavydutyboots,levitate,thunderbolt,bugbuzz,energyball,roost,normal": 250,
+ "84,lifeorb,levitate,thunderbolt,bugbuzz,energyball,roost,normal": 250,
+ "84,leftovers,levitate,thunderbolt,bugbuzz,energyball,roost,normal": 250,
+ "84,choicespecs,levitate,thunderbolt,bugbuzz,energyball,voltswitch,normal": 500
+
+},
+"minior":
+{
+ "85,whiteherb,shieldsdown,shellsmash,powergem,earthpower,acrobatics,normal": 250
+},
+"houndstone":
+{
+ "85,choicescarf,fluffy,playrough,firefang,bigsplash,lastrespects,normal": 250
 }
 }
