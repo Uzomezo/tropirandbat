@@ -2609,6 +2609,8 @@
 },
 "houndstone":
 {
- "85,choicescarf,fluffy,playrough,firefang,bigsplash,lastrespects,normal": 250
+ "81,leftovers,sandrush,playrough,sandstorm,bodypress,lastrespects,normal": 250,
+ "81,heavydutyboots,sandrush,playrough,sandstorm,bodypress,lastrespects,normal": 250,
+ "81,lifeorb,sandrush,playrough,sandstorm,bodypress,lastrespects,normal": 250
 }
 }
